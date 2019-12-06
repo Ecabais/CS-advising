@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<advising>
+  <!--Generated for MKQ-->
+  <studentinfo>
+    <f_name>MK</f_name>
+    <l_name>Quweider</l_name>
+    <student_id>007</student_id>
+    <faculty_advisor>MKQ</faculty_advisor>
+    <adv_date>11-15-2019</adv_date>
+  </studentinfo>
+  <semester>
+    <name>Fall</name>
+    <year>2019</year>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>4301</number>
+      <section>Computer Science I</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>4390</number>
+      <section>Computer Science II</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>4365</number>
+      <section>Computer Science III</section>
+      <hours>3</hours>
+    </course>
+  </semester>
+  <semester>
+    <name>Spring</name>
+    <year>2020</year>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>3301</number>
+      <section>Computer Science I</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>3390</number>
+      <section>Computer Science II</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>3365</number>
+      <section>Computer Science III</section>
+      <hours>3</hours>
+    </course>
+  </semester>
+  <semester>
+    <name>Summer</name>
+    <year>2020</year>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>2301</number>
+      <section>Computer Science I</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>2390</number>
+      <section>Computer Science I</section>
+      <hours>3</hours>
+    </course>
+    <course>
+      <prefix>CSCI</prefix>
+      <number>2365</number>
+      <section>Computer Science III</section>
+      <hours>3</hours>
+    </course>
+  </semester>
+  <notes>Calc I and II must be taken in sequence</notes>
+</advising>

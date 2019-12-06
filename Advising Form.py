@@ -7,7 +7,7 @@ Created on Fri Dec  6 01:02:56 2019
 import tkinter as tk
 import tkinter.messagebox as msbox
 
-window = tk.Tk()                    #create window
+window = tk.Tk()     #create window
 
 #variables for names and stuff
 name = tk.StringVar()
@@ -243,6 +243,10 @@ summerCreditHoursEntry6 = tk.Entry(window, textvariable = summerCreditHours6, bg
 #label and entry for notes
 noteLabel = tk.Label(window, text = "NOTES", bg = "white", font = 14).grid(column = 0, row = 28)
 noteEntry = tk.Entry(window, textvariable = notes, bg = "white").grid(column = 1, row = 28)
+
+#submit button
+submitButton = tk.Button(window, text = "submit").grid(column = 2, row = 29)
+clearButton = tk.Button(window, text = "Clear").grid(column = 3, row = 29)
 
 
 
